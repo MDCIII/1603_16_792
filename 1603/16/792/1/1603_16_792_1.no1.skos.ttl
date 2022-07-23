@@ -1,7 +1,6 @@
 PREFIX owl: <http://www.w3.org/2002/07/owl#>
 PREFIX rdfs: <http://www.w3.org/2000/01/rdf-schema#>
 PREFIX skos: <http://www.w3.org/2004/02/skos/core#>
-PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
 
 <urn:mdciii:1603:16:792()>
     a skos:Collection ;
@@ -22,7 +21,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Adana"@eng-Latn ,
         "Adana"@tur-Latn ;
-    wdata:q7200235 "TR001" ;
 .
 
 <urn:mdciii:1603:16()>
@@ -124,7 +122,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Balikesir"@eng-Latn ,
         "Balikesir"@tur-Latn ;
-    wdata:q7200235 "TR010" ;
 .
 
 <urn:mdciii:1603:16:792:1:11>
@@ -135,7 +132,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Bilecik"@eng-Latn ,
         "Bilecik"@tur-Latn ;
-    wdata:q7200235 "TR011" ;
 .
 
 <urn:mdciii:1603:16:792:1:12>
@@ -146,7 +142,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Bingol"@eng-Latn ,
         "Bingöl"@tur-Latn ;
-    wdata:q7200235 "TR012" ;
 .
 
 <urn:mdciii:1603:16:792:1:13>
@@ -157,7 +152,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Bitlis"@eng-Latn ,
         "Bitlis"@tur-Latn ;
-    wdata:q7200235 "TR013" ;
 .
 
 <urn:mdciii:1603:16:792:1:14>
@@ -168,7 +162,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Bolu"@eng-Latn ,
         "Bolu"@tur-Latn ;
-    wdata:q7200235 "TR014" ;
 .
 
 <urn:mdciii:1603:16:792:1:15>
@@ -179,7 +172,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Burdur"@eng-Latn ,
         "Burdur"@tur-Latn ;
-    wdata:q7200235 "TR015" ;
 .
 
 <urn:mdciii:1603:16:792:1:16>
@@ -190,7 +182,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Bursa"@eng-Latn ,
         "Bursa"@tur-Latn ;
-    wdata:q7200235 "TR016" ;
 .
 
 <urn:mdciii:1603:16:792:1:17>
@@ -201,7 +192,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Canakkale"@eng-Latn ,
         "Çanakkale"@tur-Latn ;
-    wdata:q7200235 "TR017" ;
 .
 
 <urn:mdciii:1603:16:792:1:18>
@@ -212,7 +202,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Cankiri"@eng-Latn ,
         "Çankiri"@tur-Latn ;
-    wdata:q7200235 "TR018" ;
 .
 
 <urn:mdciii:1603:16:792:1:19>
@@ -223,7 +212,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Corum"@eng-Latn ,
         "Çorum"@tur-Latn ;
-    wdata:q7200235 "TR019" ;
 .
 
 <urn:mdciii:1603:16:792:1:2>
@@ -234,7 +222,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Adiyaman"@eng-Latn ,
         "Adiyaman"@tur-Latn ;
-    wdata:q7200235 "TR002" ;
 .
 
 <urn:mdciii:1603:16:792:1:20>
@@ -245,7 +232,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Denizli"@eng-Latn ,
         "Denizli"@tur-Latn ;
-    wdata:q7200235 "TR020" ;
 .
 
 <urn:mdciii:1603:16:792:1:21>
@@ -256,7 +242,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Diyarbakir"@eng-Latn ,
         "Diyarbakir"@tur-Latn ;
-    wdata:q7200235 "TR021" ;
 .
 
 <urn:mdciii:1603:16:792:1:22>
@@ -267,7 +252,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Edirne"@eng-Latn ,
         "Edirne"@tur-Latn ;
-    wdata:q7200235 "TR022" ;
 .
 
 <urn:mdciii:1603:16:792:1:23>
@@ -278,7 +262,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Elazig"@eng-Latn ,
         "Elaziğ"@tur-Latn ;
-    wdata:q7200235 "TR023" ;
 .
 
 <urn:mdciii:1603:16:792:1:24>
@@ -289,7 +272,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Erzincan"@eng-Latn ,
         "Erzincan"@tur-Latn ;
-    wdata:q7200235 "TR024" ;
 .
 
 <urn:mdciii:1603:16:792:1:25>
@@ -300,7 +282,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Erzurum"@eng-Latn ,
         "Erzurum"@tur-Latn ;
-    wdata:q7200235 "TR025" ;
 .
 
 <urn:mdciii:1603:16:792:1:26>
@@ -311,7 +292,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Eskisehir"@eng-Latn ,
         "Eskişehir"@tur-Latn ;
-    wdata:q7200235 "TR026" ;
 .
 
 <urn:mdciii:1603:16:792:1:27>
@@ -322,7 +302,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Gaziantep"@eng-Latn ,
         "Gaziantep"@tur-Latn ;
-    wdata:q7200235 "TR027" ;
 .
 
 <urn:mdciii:1603:16:792:1:28>
@@ -333,7 +312,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Giresun"@eng-Latn ,
         "Giresun"@tur-Latn ;
-    wdata:q7200235 "TR028" ;
 .
 
 <urn:mdciii:1603:16:792:1:29>
@@ -344,7 +322,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Gumushane"@eng-Latn ,
         "Gümüşhane"@tur-Latn ;
-    wdata:q7200235 "TR029" ;
 .
 
 <urn:mdciii:1603:16:792:1:3>
@@ -355,7 +332,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Afyonkarahisar"@eng-Latn ,
         "Afyonkarahisar"@tur-Latn ;
-    wdata:q7200235 "TR003" ;
 .
 
 <urn:mdciii:1603:16:792:1:30>
@@ -366,7 +342,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Hakkari"@eng-Latn ,
         "Hakkari"@tur-Latn ;
-    wdata:q7200235 "TR030" ;
 .
 
 <urn:mdciii:1603:16:792:1:31>
@@ -377,7 +352,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Hatay"@eng-Latn ,
         "Hatay"@tur-Latn ;
-    wdata:q7200235 "TR031" ;
 .
 
 <urn:mdciii:1603:16:792:1:32>
@@ -388,7 +362,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Isparta"@eng-Latn ,
         "Isparta"@tur-Latn ;
-    wdata:q7200235 "TR032" ;
 .
 
 <urn:mdciii:1603:16:792:1:33>
@@ -399,7 +372,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Mersin"@eng-Latn ,
         "Mersin"@tur-Latn ;
-    wdata:q7200235 "TR033" ;
 .
 
 <urn:mdciii:1603:16:792:1:34>
@@ -410,7 +382,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Istanbul"@eng-Latn ,
         "Istanbul"@tur-Latn ;
-    wdata:q7200235 "TR034" ;
 .
 
 <urn:mdciii:1603:16:792:1:35>
@@ -421,7 +392,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Izmir"@eng-Latn ,
         "Izmir"@tur-Latn ;
-    wdata:q7200235 "TR035" ;
 .
 
 <urn:mdciii:1603:16:792:1:36>
@@ -432,7 +402,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Kars"@eng-Latn ,
         "Kars"@tur-Latn ;
-    wdata:q7200235 "TR036" ;
 .
 
 <urn:mdciii:1603:16:792:1:37>
@@ -443,7 +412,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Kastamonu"@eng-Latn ,
         "Kastamonu"@tur-Latn ;
-    wdata:q7200235 "TR037" ;
 .
 
 <urn:mdciii:1603:16:792:1:38>
@@ -454,7 +422,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Kayseri"@eng-Latn ,
         "Kayseri"@tur-Latn ;
-    wdata:q7200235 "TR038" ;
 .
 
 <urn:mdciii:1603:16:792:1:39>
@@ -465,7 +432,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Kirklareli"@eng-Latn ,
         "Kirklareli"@tur-Latn ;
-    wdata:q7200235 "TR039" ;
 .
 
 <urn:mdciii:1603:16:792:1:4>
@@ -476,7 +442,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Agri"@eng-Latn ,
         "Ağri"@tur-Latn ;
-    wdata:q7200235 "TR004" ;
 .
 
 <urn:mdciii:1603:16:792:1:40>
@@ -487,7 +452,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Kirsehir"@eng-Latn ,
         "Kirşehir"@tur-Latn ;
-    wdata:q7200235 "TR040" ;
 .
 
 <urn:mdciii:1603:16:792:1:41>
@@ -498,7 +462,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Kocaeli"@eng-Latn ,
         "Kocaeli"@tur-Latn ;
-    wdata:q7200235 "TR041" ;
 .
 
 <urn:mdciii:1603:16:792:1:42>
@@ -509,7 +472,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Konya"@eng-Latn ,
         "Konya"@tur-Latn ;
-    wdata:q7200235 "TR042" ;
 .
 
 <urn:mdciii:1603:16:792:1:43>
@@ -520,7 +482,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Kutahya"@eng-Latn ,
         "Kütahya"@tur-Latn ;
-    wdata:q7200235 "TR043" ;
 .
 
 <urn:mdciii:1603:16:792:1:44>
@@ -531,7 +492,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Malatya"@eng-Latn ,
         "Malatya"@tur-Latn ;
-    wdata:q7200235 "TR044" ;
 .
 
 <urn:mdciii:1603:16:792:1:45>
@@ -542,7 +502,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Manisa"@eng-Latn ,
         "Manisa"@tur-Latn ;
-    wdata:q7200235 "TR045" ;
 .
 
 <urn:mdciii:1603:16:792:1:46>
@@ -553,7 +512,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Kahramanmaras"@eng-Latn ,
         "Kahramanmaraş"@tur-Latn ;
-    wdata:q7200235 "TR046" ;
 .
 
 <urn:mdciii:1603:16:792:1:47>
@@ -564,7 +522,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Mardin"@eng-Latn ,
         "Mardin"@tur-Latn ;
-    wdata:q7200235 "TR047" ;
 .
 
 <urn:mdciii:1603:16:792:1:48>
@@ -575,7 +532,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Mugla"@eng-Latn ,
         "Muğla"@tur-Latn ;
-    wdata:q7200235 "TR048" ;
 .
 
 <urn:mdciii:1603:16:792:1:49>
@@ -586,7 +542,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Mus"@eng-Latn ,
         "Muş"@tur-Latn ;
-    wdata:q7200235 "TR049" ;
 .
 
 <urn:mdciii:1603:16:792:1:5>
@@ -597,7 +552,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Amasya"@eng-Latn ,
         "Amasya"@tur-Latn ;
-    wdata:q7200235 "TR005" ;
 .
 
 <urn:mdciii:1603:16:792:1:50>
@@ -608,7 +562,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Nevsehir"@eng-Latn ,
         "Nevşehir"@tur-Latn ;
-    wdata:q7200235 "TR050" ;
 .
 
 <urn:mdciii:1603:16:792:1:51>
@@ -619,7 +572,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Nigde"@eng-Latn ,
         "Niğde"@tur-Latn ;
-    wdata:q7200235 "TR051" ;
 .
 
 <urn:mdciii:1603:16:792:1:52>
@@ -630,7 +582,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Ordu"@eng-Latn ,
         "Ordu"@tur-Latn ;
-    wdata:q7200235 "TR052" ;
 .
 
 <urn:mdciii:1603:16:792:1:53>
@@ -641,7 +592,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Rize"@eng-Latn ,
         "Rize"@tur-Latn ;
-    wdata:q7200235 "TR053" ;
 .
 
 <urn:mdciii:1603:16:792:1:54>
@@ -652,7 +602,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Sakarya"@eng-Latn ,
         "Sakarya"@tur-Latn ;
-    wdata:q7200235 "TR054" ;
 .
 
 <urn:mdciii:1603:16:792:1:55>
@@ -663,7 +612,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Samsun"@eng-Latn ,
         "Samsun"@tur-Latn ;
-    wdata:q7200235 "TR055" ;
 .
 
 <urn:mdciii:1603:16:792:1:56>
@@ -674,7 +622,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Siirt"@eng-Latn ,
         "Siirt"@tur-Latn ;
-    wdata:q7200235 "TR056" ;
 .
 
 <urn:mdciii:1603:16:792:1:57>
@@ -685,7 +632,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Sinop"@eng-Latn ,
         "Sinop"@tur-Latn ;
-    wdata:q7200235 "TR057" ;
 .
 
 <urn:mdciii:1603:16:792:1:58>
@@ -696,7 +642,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Sivas"@eng-Latn ,
         "Sivas"@tur-Latn ;
-    wdata:q7200235 "TR058" ;
 .
 
 <urn:mdciii:1603:16:792:1:59>
@@ -707,7 +652,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Tekirdag"@eng-Latn ,
         "Tekirdağ"@tur-Latn ;
-    wdata:q7200235 "TR059" ;
 .
 
 <urn:mdciii:1603:16:792:1:6>
@@ -718,7 +662,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Ankara"@eng-Latn ,
         "Ankara"@tur-Latn ;
-    wdata:q7200235 "TR006" ;
 .
 
 <urn:mdciii:1603:16:792:1:60>
@@ -729,7 +672,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Tokat"@eng-Latn ,
         "Tokat"@tur-Latn ;
-    wdata:q7200235 "TR060" ;
 .
 
 <urn:mdciii:1603:16:792:1:61>
@@ -740,7 +682,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Trabzon"@eng-Latn ,
         "Trabzon"@tur-Latn ;
-    wdata:q7200235 "TR061" ;
 .
 
 <urn:mdciii:1603:16:792:1:62>
@@ -751,7 +692,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Tunceli"@eng-Latn ,
         "Tunceli"@tur-Latn ;
-    wdata:q7200235 "TR062" ;
 .
 
 <urn:mdciii:1603:16:792:1:63>
@@ -762,7 +702,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Sanliurfa"@eng-Latn ,
         "Şanliurfa"@tur-Latn ;
-    wdata:q7200235 "TR063" ;
 .
 
 <urn:mdciii:1603:16:792:1:64>
@@ -773,7 +712,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Usak"@eng-Latn ,
         "Uşak"@tur-Latn ;
-    wdata:q7200235 "TR064" ;
 .
 
 <urn:mdciii:1603:16:792:1:65>
@@ -784,7 +722,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Van"@eng-Latn ,
         "Van"@tur-Latn ;
-    wdata:q7200235 "TR065" ;
 .
 
 <urn:mdciii:1603:16:792:1:66>
@@ -795,7 +732,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Yozgat"@eng-Latn ,
         "Yozgat"@tur-Latn ;
-    wdata:q7200235 "TR066" ;
 .
 
 <urn:mdciii:1603:16:792:1:67>
@@ -806,7 +742,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Zonguldak"@eng-Latn ,
         "Zonguldak"@tur-Latn ;
-    wdata:q7200235 "TR067" ;
 .
 
 <urn:mdciii:1603:16:792:1:68>
@@ -817,7 +752,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Aksaray"@eng-Latn ,
         "Aksaray"@tur-Latn ;
-    wdata:q7200235 "TR068" ;
 .
 
 <urn:mdciii:1603:16:792:1:69>
@@ -828,7 +762,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Bayburt"@eng-Latn ,
         "Bayburt"@tur-Latn ;
-    wdata:q7200235 "TR069" ;
 .
 
 <urn:mdciii:1603:16:792:1:7>
@@ -839,7 +772,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Antalya"@eng-Latn ,
         "Antalya"@tur-Latn ;
-    wdata:q7200235 "TR007" ;
 .
 
 <urn:mdciii:1603:16:792:1:70>
@@ -850,7 +782,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Karaman"@eng-Latn ,
         "Karaman"@tur-Latn ;
-    wdata:q7200235 "TR070" ;
 .
 
 <urn:mdciii:1603:16:792:1:71>
@@ -861,7 +792,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Kirikkale"@eng-Latn ,
         "Kirikkale"@tur-Latn ;
-    wdata:q7200235 "TR071" ;
 .
 
 <urn:mdciii:1603:16:792:1:72>
@@ -872,7 +802,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Batman"@eng-Latn ,
         "Batman"@tur-Latn ;
-    wdata:q7200235 "TR072" ;
 .
 
 <urn:mdciii:1603:16:792:1:73>
@@ -883,7 +812,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Sirnak"@eng-Latn ,
         "Şirnak"@tur-Latn ;
-    wdata:q7200235 "TR073" ;
 .
 
 <urn:mdciii:1603:16:792:1:74>
@@ -894,7 +822,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Bartin"@eng-Latn ,
         "Bartin"@tur-Latn ;
-    wdata:q7200235 "TR074" ;
 .
 
 <urn:mdciii:1603:16:792:1:75>
@@ -905,7 +832,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Ardahan"@eng-Latn ,
         "Ardahan"@tur-Latn ;
-    wdata:q7200235 "TR075" ;
 .
 
 <urn:mdciii:1603:16:792:1:76>
@@ -916,7 +842,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Igdir"@eng-Latn ,
         "Iğdir"@tur-Latn ;
-    wdata:q7200235 "TR076" ;
 .
 
 <urn:mdciii:1603:16:792:1:77>
@@ -927,7 +852,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Yalova"@eng-Latn ,
         "Yalova"@tur-Latn ;
-    wdata:q7200235 "TR077" ;
 .
 
 <urn:mdciii:1603:16:792:1:78>
@@ -938,7 +862,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Karabuk"@eng-Latn ,
         "Karabük"@tur-Latn ;
-    wdata:q7200235 "TR078" ;
 .
 
 <urn:mdciii:1603:16:792:1:79>
@@ -949,7 +872,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Kilis"@eng-Latn ,
         "Kilis"@tur-Latn ;
-    wdata:q7200235 "TR079" ;
 .
 
 <urn:mdciii:1603:16:792:1:8>
@@ -960,7 +882,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Artvin"@eng-Latn ,
         "Artvin"@tur-Latn ;
-    wdata:q7200235 "TR008" ;
 .
 
 <urn:mdciii:1603:16:792:1:80>
@@ -971,7 +892,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Osmaniye"@eng-Latn ,
         "Osmaniye"@tur-Latn ;
-    wdata:q7200235 "TR080" ;
 .
 
 <urn:mdciii:1603:16:792:1:81>
@@ -982,7 +902,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Duzce"@eng-Latn ,
         "Düzce"@tur-Latn ;
-    wdata:q7200235 "TR081" ;
 .
 
 <urn:mdciii:1603:16:792:1:9>
@@ -993,6 +912,5 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Aydin"@eng-Latn ,
         "Aydin"@tur-Latn ;
-    wdata:q7200235 "TR009" ;
 .
 
